@@ -3,6 +3,8 @@
 # 과제
 - 모델링
 
+<img width="1615" alt="modeling-jipark" src="https://user-images.githubusercontent.com/9523707/226273964-df5fca4a-a77f-453b-8aba-b7e2255acd32.png">
+
 - saga(Pub/Sub)
 
 
