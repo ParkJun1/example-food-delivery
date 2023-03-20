@@ -7,6 +7,12 @@
 
 - saga(Pub/Sub)
 
+<img width="977" alt="주문요청_조회-jipark" src="https://user-images.githubusercontent.com/9523707/226274256-10a11235-5cc6-4445-8aa4-2a799187cb19.png">
+<img width="586" alt="주문접수_조리시작_조리완료-jipark" src="https://user-images.githubusercontent.com/9523707/226274284-0c045f6d-dd0d-4298-ade4-492f703a00c4.png">
+<img width="567" alt="배달중_배달완료-jipark" src="https://user-images.githubusercontent.com/9523707/226274339-4ee29257-9c6e-4727-8338-6847ef581d5c.png">
+<img width="576" alt="주문거절-jipark" src="https://user-images.githubusercontent.com/9523707/226274412-2045e371-be87-41a0-9e1e-6aac6482101c.png">
+<img width="1195" alt="pub-sub-jipark" src="https://user-images.githubusercontent.com/9523707/226274372-86156342-27d3-4c59-8a44-deef8895d38e.png">
+<img width="1146" alt="주문거절-pub-sub-jipark" src="https://user-images.githubusercontent.com/9523707/226274460-202f8a98-3edf-4c49-9f3b-b62c9bf2bcd3.png">
 
 - CQRS
 
