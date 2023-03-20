@@ -16,6 +16,7 @@
 
 - CQRS
 
+<img width="1576" alt="cqrs1-jipark" src="https://user-images.githubusercontent.com/9523707/226275879-4b026263-6330-48b8-b141-9e8a9b283285.png">
 
 
 - Compansation/Correlation
