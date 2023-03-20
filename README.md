@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
-# 과제
+# 과제 제출(3월21일(화)까지)
 - 모델링
 
 <img width="1615" alt="modeling-jipark" src="https://user-images.githubusercontent.com/9523707/226273964-df5fca4a-a77f-453b-8aba-b7e2255acd32.png">
